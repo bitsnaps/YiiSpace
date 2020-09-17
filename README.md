@@ -1,6 +1,7 @@
 # Yii 2 Ninja Application Template
 
-[![Code Quality](https://img.shields.io/scrutinizer/g/creocoder/yii2-app-ninja/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/creocoder/yii2-app-ninja/?branch=master)
+
+P.S. This template adds some extra extensions (dektrium's user, rbac...)
 
 Yii 2 Ninja Application Template is a skeleton Yii 2 application best for
 developing complex Web applications with multiple tiers.
@@ -69,9 +70,3 @@ frontend
     widgets/             contains frontend widgets
 vendor/                  contains dependent 3rd-party packages
 ```
-
-## Donating
-
-Support this project and [others by creocoder](https://gratipay.com/creocoder/) via [gratipay](https://gratipay.com/creocoder/).
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/creocoder/)
